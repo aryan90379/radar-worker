@@ -1,0 +1,5 @@
+certifi==2026.2.25
+cffi==2.0.0
+curl_cffi==0.14.0
+pycparser==3.0
+python-dotenv==1.2.2
